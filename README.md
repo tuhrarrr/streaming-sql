@@ -97,6 +97,3 @@ Projeto criado para fins de **estudo e portfólio**, focado em:
 - Boas práticas com SQL.
 
 ---
-
-📌 Autor: *Seu nome aqui*  
-📚 Projeto educacional.
